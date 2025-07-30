@@ -1,0 +1,11 @@
+# Ignore dataset and models
+models/*.h5
+models/*.keras
+
+# Ignore Python cache and venv
+__pycache__/
+*.py[cod]
+venv/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
